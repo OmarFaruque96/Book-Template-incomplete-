@@ -162,7 +162,8 @@ a,span,p,input{
 .service{
 	width: 100%;
 	height: auto;
-	background-image: linear-background(to bottom,#f6f8fc 0%,#fff 70%);
+	background-image: linear-gradient(to bottom, #f6f8fc 0%, #fff 70%);
+    	background-repeat: repeat-x;
 }
 .service-body{
 	width: 100%;
